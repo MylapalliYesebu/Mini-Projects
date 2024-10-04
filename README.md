@@ -1,4 +1,4 @@
------------------------------------------------------------------------------TEAM  YESEBU AND ADARSH--------------------------------------------------------------------
+-----------------------------------------------------------------------------TEAM  YESEBU AND ADARSH-------------------------------------------------------------
 WE  HAVE CREATED A JAVA PROGRAM  WHICH HELPS  USERS TO COUNT THE NUMBER OF WORDS ,LETTERS AND PARAGRAPH.
 IT IS  BUILT USING SWING.
 
