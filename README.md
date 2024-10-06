@@ -1,8 +1,10 @@
 -----------------------------------------------------------------------------TEAM  YESEBU AND ADARSH-------------------------------------------------------------
+
 WE  HAVE CREATED A JAVA PROGRAM  WHICH HELPS  USERS TO COUNT THE NUMBER OF WORDS ,LETTERS AND PARAGRAPH.
 IT IS  BUILT USING SWING.
 
 Let us know about import statements : 
+
 /////////////import javax.swing.*;
             import java.awt.*;
             import java.awt.event.*;////////////////////////////////
