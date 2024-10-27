@@ -1,9 +1,9 @@
------------------------------------------------------------------------------TEAM  YESEBU AND ADARSH-------------------------------------------------------------
+-----------------------------------TEAM  YESEBU AND ADARSH-------------------------------------------------------------
 
 WE  HAVE CREATED A JAVA PROGRAM  WHICH HELPS  USERS TO COUNT THE NUMBER OF WORDS ,LETTERS AND PARAGRAPH.
 IT IS  BUILT USING SWING.
 
-Let us know about import statements : 
+Let us know about import statements :
 
 /////////////import javax.swing.*;
             import java.awt.*;
@@ -37,7 +37,7 @@ Constructor:
 [4]setLocationRelativeTo(null): Centers the window on the screen.
 
 Text Area and Scroll Pane:
-////////////////////  t1 = new JTextArea(); 
+////////////////////  t1 = new JTextArea();
                   t1.setLineWrap(true);
                   t1.setWrapStyleWord(true);
                   JScrollPane scrollPane = new JScrollPane(t1);/////////////////
@@ -55,7 +55,6 @@ Labels and Button:
 [1]JLabel: Three labels are initialized to display the counts, starting at zero.
 [2]JButton: A button is created, and the current class is set to listen for action events from this button.
 
-
 Panel and Layout:
 ////////////////////////////////////JPanel panel = new JPanel();
         panel.setLayout(new GridLayout(4, 1));
@@ -65,8 +64,7 @@ Panel and Layout:
         panel.add(countButton); /////////////////////////////////
 
 [1]A JPanel with a GridLayout is created to organize the labels and button vertically.
-[2]The labels and button are added to this panel.   
-        
+[2]The labels and button are added to this panel  
 Adding Components to the Frame:
 /////////////////////////add(scrollPane, BorderLayout.CENTER);
                          add(panel, BorderLayout.SOUTH);///////////////////
